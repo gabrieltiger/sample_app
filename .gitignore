@@ -21,3 +21,6 @@
 .byebug_history
 
 .idea
+
+spring/
+/spring/*.pid
